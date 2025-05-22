@@ -36,6 +36,8 @@ def create_resume_from_json(pdf_path, data):
     description = f"{data['header']['email']} • {data['header']['phone']} • {data['header']['address']}"
     content.append(Paragraph(description, contact_style))
 
+    doc.canv.setTitle(f'{data['header']['name']}\'s Resume')
+
     # EDUCATION
     education_data = data['education']
 
