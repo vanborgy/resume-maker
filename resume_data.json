@@ -1,0 +1,117 @@
+{
+  "header": {
+    "name": "Soren Vanderborgh",
+    "email": "soren@tranquil.cc",
+    "phone": "303-917-2887",
+    "address": "3560 19th Street, Boulder, CO 80304"
+  },
+  "education": [
+    {
+      "school": "University of Colorado Boulder",
+      "major": "Bachelors of Science in Applied Mathematics",
+      "location": "Boulder, CO",
+      "date": "August 2023-January 2027",
+      "minors": [
+        "Computer Science",
+        "Economics"
+      ],
+      "gpa": "3.8",
+      "technical_skills": [
+        "Java",
+        "Kotlin",
+        "Typescript",
+        "C++",
+        "C",
+        "Python",
+        "R-Studio",
+        "MongoDB",
+        "Redis",
+        "MySQL",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "React"
+      ],
+      "relevant_coursework": [
+        "Stochastic Analysis of Financial Models",
+        "Self Study of Algorithmic Game Theory"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Fanatics",
+      "title": "Quantitative Analyst Intern",
+      "location": "Denver, CO (Hybrid)",
+      "date": "June 2025-August 2025",
+      "details": [
+        "Developed and implemented predictive models for sports betting using Python and C, analyzing large datasets to improve pricing accuracy, risk management, and trading strategies.",
+        "Collaborated with quants and product teams to enhance a proprietary trading platform, contributing to model documentation, data sourcing, and ongoing research in quantitative finance and betting markets."
+      ]
+    },
+    {
+      "company": "Tranquil, LLC.",
+      "title": "Founder",
+      "location": "Boulder, CO",
+      "date": "September 2023-Present",
+      "details": [
+        "Administrated four overseas teams with several different time zones and skill sets.",
+        "Generated peak monthly profits of ~$18,000 by contracting services to companies and media agencies.",
+        "Strategized the creation and growth of a development/digital marketing company."
+      ]
+    },
+    {
+      "company": "FrozenOrb Games",
+      "title": "Software Engineering Intern",
+      "location": "Los Angeles, CA (Remote)",
+      "date": "November 2018-August 2019",
+      "details": [
+        "Developed and maintained systems and software for java-based games that were played by millions of players across the lifetime of the company.",
+        "Worked with virtual machines in the cloud to manage thousands of user accounts data and game data.",
+        "Deployed and managed cloud-based game servers, handling game data and user account information for thousands of players."
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "organization": "Rocky Mountain AI Interest Group",
+      "role": "Student Board Member",
+      "location": "Boulder, CO",
+      "date": "June 2025-Present",
+      "details": [
+        "Selected as a Student Board Member for RMAIIG, contributing to event planning, speaker outreach, and strategic growth of a 2,800+ member AI community."
+      ]
+    },
+    {
+      "organization": "CU Quants",
+      "role": "Vice President of Operations",
+      "location": "Boulder, CO",
+      "date": "August 2025-Present",
+      "details": [
+        "Supported operations for CU Quants by maintaining the club website, organizing shared resources in Google Drive, and managing internal communications and scheduling.",
+        "Tracked member participation, documented meetings, and assisted with outreach to guest speakers and industry professionals for events and collaborations."
+      ]
+    },
+    {
+      "organization": "Landsharks Robotics Club",
+      "role": "Member",
+      "location": "Boulder, CO",
+      "date": "September 2020-September 2022",
+      "details": [
+        "Contributed to the development of robot control code, including movement algorithms, ball tracking systems, and decision-making logic for autonomous operation.",
+        "Collaborated on mechanical design using SolidWorks and assisted with assembling physical components, ensuring alignment between software functionality and hardware performance."
+      ]
+    }
+  ],
+  "interests": [
+    "Skiing",
+    "Cooking",
+    "Nujabes",
+    "Swimming",
+    "Cryptography",
+    "Star Wars",
+    "Lego",
+    "Predictive Sports Analysis",
+    "Soccer"
+  ]
+}
